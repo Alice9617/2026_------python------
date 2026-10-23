@@ -1,5 +1,6 @@
 #1:extend
 mylist=[1,2,3,4,5,6,7,8,9,10]
+print(mylist)
 mylist.extend([11])          #.extendでリスト自体を拡張する。appendはリストに点を増やす。複数追加できるのが強み
 print(mylist)
 
